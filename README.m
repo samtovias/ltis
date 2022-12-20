@@ -1,12 +1,12 @@
 
-% Supplementary Material for Paper CCE2021 Submission 74 
-% Title: Instance Selection Based on Linkage Trees 
-%
-% IMPORTANT: First run "Run_first.m" file.
-%
-% This material contains the necessary functions for the 
-% reproducibility of the work presented in the paper divided 
-% in ten subfolders: 
+% Instance Selection Based on Linkage Trees (LTIS)
+% 
+% First run "Run_first.m" file.
+% 
+% This material contains the necessary functions for
+% the reproducibility of the work presented in the paper 
+% https://ieeexplore.ieee.org/document/9633116 divided in
+% ten subfolders: 
 %
 %   Classic-IS 
 %   ----------
