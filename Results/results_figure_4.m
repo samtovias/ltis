@@ -208,5 +208,5 @@ s2.Position = [0.0750 0.1200 0.8700 0.3500];
 % set(fig,'Units','Inches'); 
 % set(fig,'PaperPositionMode','Auto','PaperUnits','Inches','PaperSize',[fig.Position(3) fig.Position(4)]);
 % namepdf = 'baresults_subplots';
-% print('-painters',namepdf,'-dpdf','-r0'); 
+% print('-painters',namepdf,'-dpdf','-r0');
 % print('-painters',namepdf,'-dsvg','-r0');
